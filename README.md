@@ -6,4 +6,6 @@ A simulation of convection within the solar convection zone. The code is written
 This repository contains a directory of IDL code attempting to perform the simulation, and is incomplete.
 
 The Python directory contains code written by Sean Blake and used for his 4th year Physics/Astro project at TCD.
--See the README.md file in the Python directory.
+-See the README.md file in the ./python directory.
+
+For the static solar model used in the code, see the README.md in the ./solar_model directory.
